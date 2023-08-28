@@ -1,16 +1,12 @@
-Hi 👋 !
-
-<!--
-**ladycadavero/ladycadavero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🙋🏻‍♀️ Introducing Myself </h3>
+<p>Hello, my name is Lady Shernalyn Cadavero. Currently, an MS in Chemistry student and an aspiring Data Analyst upskilling to obtain expertise in data analysis, reporting and query optimization. </p>
+<h3>🛠️ Tools (Ongoing)</h3>
+<ul>
+  <li> Language: SQL, Python</li>
+  <li>Database: SQL Server</li>
+  <li>Visualization: Excel, Power BI</li>
+</ul>
+<h3>👋🏻 Connect with Me</h3>
+<fieldset>
+  <a href="https://www.linkedin.com/in/lady-shernalyn-cadavero-33507720b/">Linkedin</a>
+</fieldset>
