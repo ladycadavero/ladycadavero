@@ -4,7 +4,7 @@
 <ul>
   <li> Language: SQL, Python</li>
   <li>Database: SQL Server</li>
-  <li>Visualization: Excel, Power BI</li>
+  <li>Visualization: Excel, Power BI, Tableau</li>
 </ul>
 <h3>👋🏻 Connect with Me</h3>
 <fieldset>
