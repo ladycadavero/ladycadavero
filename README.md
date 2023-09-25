@@ -5,7 +5,7 @@ Welcome to my <a href="https://github.com/ladycadavero/portfolio-guide">portfoli
 <h3>🛠️ Tools (Ongoing)</h3>
 <ul>
   <li> Language: SQL, Python</li>
-  <li>Database: SQL Server</li>
+  <li>Database: SQL Server, MySQL</li>
   <li>Visualization: Power BI, Tableau</li>
 </ul>
 <h3>👋🏻 Connect with Me</h3>
